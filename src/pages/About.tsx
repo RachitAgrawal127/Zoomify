@@ -35,7 +35,7 @@ function About({ isDarkMode }: AboutProps) {
             <h2 className="text-2xl font-semibold mb-4 bg-gradient-to-r from-pink-500 to-indigo-500 text-transparent bg-clip-text">Connect With Us</h2>
             <div className="flex justify-center gap-6">
               <a
-                href="https://github.com"
+                href="https://github.com/RachitAgrawal127/Zoomify/tree/main"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-2 rounded-full transition-all duration-300 ${
